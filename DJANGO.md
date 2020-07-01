@@ -20,6 +20,8 @@ https://github.com/owais/django-webpack-loader
 
 ## Migrations
 
+https://github.com/tbicr/django-pg-zero-downtime-migrations
+
 ### Backwards compatability
 
 https://medium.com/3yourmind/keeping-django-database-migrations-backward-compatible-727820260dbb
