@@ -1,5 +1,9 @@
 # Django
 
+## Common
+
+https://django-extensions.readthedocs.io/en/latest/
+
 ## Frontend
 
 ### Bootstrap
