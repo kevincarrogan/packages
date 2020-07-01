@@ -4,6 +4,10 @@
 
 https://django-extensions.readthedocs.io/en/latest/
 
+## Config
+
+https://github.com/joke2k/django-environ
+
 ## Frontend
 
 ### Bootstrap
