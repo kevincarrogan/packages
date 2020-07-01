@@ -6,6 +6,10 @@
 
 https://pypi.org/project/django-bootstrap4/
 
+### Webpack
+
+https://github.com/owais/django-webpack-loader
+
 ## Migrations
 
 ### Backwards compatability
