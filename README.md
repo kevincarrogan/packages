@@ -6,6 +6,6 @@ A repository for listing useful packages and repositories for setting up and dev
 
 ## [iOS](IOS.md)
 
-## [JavaScript](JAVASCIPT.md)
+## [JavaScript](JAVASCRIPT.md)
 
 ## [Python](PYTHON.md)
