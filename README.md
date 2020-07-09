@@ -6,8 +6,6 @@ A repository for listing useful packages and repositories for setting up and dev
 
 ## [Infrastructure](INFRASTRUCTURE.md)
 
-## [iOS](IOS.md)
-
 ## [JavaScript](JAVASCRIPT.md)
 
 ## [Python](PYTHON.md)
