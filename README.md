@@ -8,4 +8,6 @@ A repository for listing useful packages and repositories for setting up and dev
 
 ## [JavaScript](JAVASCRIPT.md)
 
+## [Misc](MISC.md)
+
 ## [Python](PYTHON.md)
