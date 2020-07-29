@@ -18,11 +18,18 @@ https://pypi.org/project/django-bootstrap4/
 
 https://github.com/owais/django-webpack-loader
 
-## Migrations
+## Database
+
+### Models
+
+https://django-treebeard.readthedocs.io/en/latest/
+https://django-polymorphic.readthedocs.io/en/stable/
+
+### Migrations
 
 https://github.com/tbicr/django-pg-zero-downtime-migrations
 
-### Backwards compatability
+#### Backwards compatability
 
 https://medium.com/3yourmind/keeping-django-database-migrations-backward-compatible-727820260dbb
 
