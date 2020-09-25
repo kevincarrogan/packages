@@ -10,6 +10,8 @@ https://github.com/Delgan/loguru
 
 https://pypi.org/project/parameterized/
 
+https://pypi.org/project/pytest-clarity/
+
 ## Utilities
 
 http://www.pyinvoke.org/
