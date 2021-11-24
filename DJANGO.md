@@ -39,3 +39,7 @@ https://github.com/3YOURMIND/django-migration-linter
 https://github.com/3YOURMIND/django-add-default-value
 
 https://github.com/3YOURMIND/django-deprecate-fields
+
+## A/B Testing
+
+https://github.com/mixcloud/django-experiments
