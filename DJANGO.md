@@ -4,6 +4,8 @@
 
 https://django-extensions.readthedocs.io/en/latest/
 
+https://github.com/KristianOellegaard/django-health-check
+
 ## Config
 
 https://github.com/joke2k/django-environ
