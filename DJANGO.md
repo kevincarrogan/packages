@@ -45,3 +45,7 @@ https://github.com/3YOURMIND/django-deprecate-fields
 ## A/B Testing
 
 https://github.com/mixcloud/django-experiments
+
+## Permissions
+
+https://github.com/dfunckt/django-rules#permissions-in-models
